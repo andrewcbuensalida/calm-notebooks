@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=0B5eIE_1vpU&list=PPSV
+
 # Notebooks
 
 This repository contains notebooks used over at [calmcode.io](https://calmcode.io).
